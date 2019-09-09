@@ -13,7 +13,6 @@
     "aaa",
     "ccc"
   ],
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/longdong1021/chat-test.git"
