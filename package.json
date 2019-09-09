@@ -1,0 +1,23 @@
+{
+  "name": "chat-test",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "miniprogram": "dist",
+  "devDependencies": {},
+  "dependencies": {},
+  "keywords": [
+    "aaa",
+    "ccc"
+  ],
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longdong1021/chat-test.git"
+  },
+  "author": "longdong1021@163.com",
+  "license": "ISC"
+}
